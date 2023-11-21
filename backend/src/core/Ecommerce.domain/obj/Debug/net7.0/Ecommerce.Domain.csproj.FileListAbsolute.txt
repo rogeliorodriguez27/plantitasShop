@@ -1,0 +1,11 @@
+C:\plantitasShop\backend\src\core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+C:\plantitasShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+C:\plantitasShop\backend\src\core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll

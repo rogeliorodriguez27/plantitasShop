@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ecommerce.Infrastructure": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Project"
+    }
+  }
+}
