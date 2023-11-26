@@ -20,5 +20,10 @@ public class Product : BaseDomainModel{
     public int stock { get; set; }
     public ProductStatus Status { get; set; } = ProductStatus.Active;
     public int CategoryId { get; set; }
+    public Category? Category {get;set;}
+    
+    public virtual ICollection<Review>? Reviews { get; set; }
+    public virtual ICollection<Review>? Images { get; set; }
+
 
 }

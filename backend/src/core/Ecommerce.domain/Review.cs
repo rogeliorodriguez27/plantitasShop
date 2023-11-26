@@ -12,5 +12,7 @@ public class Review : BaseDomainModel{
 
     public string? ReviewText { get; set; }
     public int ProductId { get; set; }
-
+  
+    public Product? Product { get; set; }
+  
 }

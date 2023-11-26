@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OkA2ZRafivP/Zkr/Rqo0QxGIhEgjY0GonXJJxxiO7nzIief7vi5hWwIN1dPd7sFadHQcKK/nW5prTL4dFs3WaA==",
+  "dgSpecHash": "jsflUhA5eebr63JUHNlsrXlxWT59c32csuoEXEYUkLVJn9svRRKWCiq18pm+P5DMDA3+pqSKguZyFCQCpwPXvQ==",
   "success": true,
-  "projectFilePath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kellen\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\kellen\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

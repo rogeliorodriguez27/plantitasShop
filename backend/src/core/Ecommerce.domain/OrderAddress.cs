@@ -14,6 +14,7 @@ public class OrderAddress : BaseDomainModel{
     public string? PostalCode { get; set; }
     public string? Username { get; set; }
     public string? Country { get; set; }
+    public Order? Order{ get; set; } 
 
 }
  

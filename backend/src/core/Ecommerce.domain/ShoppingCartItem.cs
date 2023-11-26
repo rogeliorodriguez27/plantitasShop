@@ -23,4 +23,6 @@ public class ShoppingCartItem : BaseDomainModel{
 
     public int Stock { get; set; }
 
+    public ShoppingCart? ShoppingCart { get; set; }
+
 }

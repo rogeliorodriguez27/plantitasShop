@@ -12,4 +12,6 @@ public class Image : BaseDomainModel{
     public string? PublicCode { get; set; }
     public int ProductId { get; set; }
 
+    public Product? Product{ get; set; }
+
 }
