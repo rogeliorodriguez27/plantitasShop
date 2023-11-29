@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {}
+    "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Application\\Ecommerce.Application.csproj": {}
   },
   "projects": {
-    "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+    "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectUniqueName": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "projectName": "Ecommerce.Application",
-        "projectPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+        "projectPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Application\\Ecommerce.Application.csproj",
         "packagesPath": "C:\\Users\\kellen\\.nuget\\packages\\",
-        "outputPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Application\\obj\\",
+        "outputPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kellen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
-                "projectPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
+              "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+                "projectPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\Ecommerce.Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\kellen\\.nuget\\packages\\",
-        "outputPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "C:\\plantitasShop\\plantitasShop\\backend\\src\\core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kellen\\AppData\\Roaming\\NuGet\\NuGet.Config",
